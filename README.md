@@ -15,4 +15,4 @@ __[http://blog.csdn.net/sziicool/article/details/18728153](http://blog.csdn.net/
 
 ###效果图
 --------------------------------------------------------------------------------------------
-![shot](assets/screenshot.png)
+![shot](/assets/screenshot.png)
